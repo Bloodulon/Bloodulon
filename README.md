@@ -2,13 +2,13 @@
 ### 🛠 Tech Stack
 
 #### **Systems & Tooling**
-- ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) **Rust** — Developing high-performance tools and system-level applications.
-- ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white) **NixOS & Arch** — Managing reproducible environments and complex system configurations via flakes.
+- **Rust** — Developing high-performance tools and system-level applications. ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+- **NixOS & Arch** — Managing reproducible environments and complex system configurations via flakes. ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
 
 #### **Backend & Scripting**
-- ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) **Kotlin** — Building robust backend logic and JVM-based applications.
-- ![PHP](https://img.shields.io/badge/PHP-777BB1?style=flat-square&logo=php&logoColor=white) **PHP** — Experience with CMS integration (Bitrix) and web-template development.
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** — Frontend interactivity and automation scripts.
+- **Kotlin** — Building robust backend logic and JVM-based applications. ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+- **PHP** — Experience with CMS integration (Bitrix) and web-template development. ![PHP](https://img.shields.io/badge/PHP-777BB1?style=flat-square&logo=php&logoColor=white)
+- **JavaScript** — Frontend interactivity and automation scripts. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
