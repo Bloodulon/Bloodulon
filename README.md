@@ -12,5 +12,5 @@
 - **Gitizen** — Advanced integration of version control systems and scripting engines (Denizen).
 
 ### 📊 GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=Bloodulon&show_icons=true&theme=dracula&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bloodulon&layout=compact&theme=dracula&hide_border=true)
+![My Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Bloodulon&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bloodulon&layout=compact&theme=dracula&hide_border=true)
