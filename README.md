@@ -14,7 +14,7 @@
 
 ### 🔭 Current Projects
 - **Cortex** — Infrastructure project focusing on core/backend development.
-- **Fluxorio** — High-performance solutions and automation tooling.
+- **Fluxorio** — A terminal-based factory automation game featuring procedural generation, ASCII graphics, and complex logistics systems.
 - **Gitizen** — Advanced integration of version control systems and scripting engines (Denizen).
 - **Dotfiles** — Reproducible development environments managed with NixOS flakes and Arch Linux configurations.
 
